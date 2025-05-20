@@ -26,7 +26,6 @@ This project predicts flight ticket prices using supervised machine learning tec
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-- ✅ Distribution plots (Pie Charts) for `airline` and `source_city`
 - ✅ Heatmap of correlation matrix for numeric variables
 - ✅ Residual analysis to validate model fit
 - ✅ Comparison of predictions vs actual prices using scatter plots
